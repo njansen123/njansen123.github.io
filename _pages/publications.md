@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: My peer-reviewed publications. See also my <a href="https://scholar.google.com/citations?hl=de&user=zUavkyEAAAAJ" target="_blank">Google scholar</a> or my <a href="https://dblp.org/pid/32/8421-1.html" target="_blank">dblp</a> page.
+description: My peer-reviewed publications. See also my <a href='https://scholar.google.com/citations?hl=de&user=zUavkyEAAAAJ' target='_blank'>Google scholar</a> or my <a href='https://dblp.org/pid/32/8421-1.html' target='_blank'>dblp</a> page.
 years: [2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010]
 nav: true
 nav_order: 1
