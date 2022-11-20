@@ -23,4 +23,8 @@ The following goals are central to our efforts:
 * Render AI models robust against uncertain knowledge about the environment they operate in.
 * Enhance the capabilities of verification to handle real-world problems using learning techniques.
 
+We are interested in various aspects of dependability and safety in AI, intelligent decision-making under uncertainty, and safe reinforcement Learning. A key aspect of our research is a thorough understanding of the (epistemic or aleatoric) uncertainty that may occur when AI systems operate in the real world.
+
+
+
  
