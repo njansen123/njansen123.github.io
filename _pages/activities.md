@@ -27,11 +27,11 @@ nav_order: 5
 
 ### PhD Committee Member and Referee ###
 
-* <a href="https://www.inf.tu-dresden.de/index.php?node_id=3841&ln=en" target="_blank">Simon Jantsch (TU Dresden, upcoming)</a>.
+* <a href="https://www.inf.tu-dresden.de/index.php?node_id=3841&ln=en" target="_blank">Dr. Simon Jantsch (TU Dresden, upcoming)</a>.
 
 * <a href="https://ira.informatik.uni-freiburg.de/src/team_view.php?teamID=77" target="_blank">Leonore Winterer (University of Freiburg, upcoming)</a>.
 
-* <a href="https://www.mpi-sws.org/people/gavran/" target="_blank">Ivan Gavran (MPI-SWS, upcoming)</a>.
+* <a href="https://www.mpi-sws.org/people/gavran/" target="_blank">Dr. Ivan Gavran (MPI-SWS, upcoming)</a>.
 
 * Dr. Alexis Linard
 
