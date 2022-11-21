@@ -25,6 +25,8 @@ nav_order: 5
 **2018:**
 <a href="http://2018.discotec.org/cfp_forte.html" target="_blank">FORTE 2018</a>, <a href="https://tacas.info/artifacts.php" target="_blank">TACAS Artifact Evaluation 2018</a>, <a href="http://ifm2018.cs.nuim.ie/PhDSymposium" target="_blank">PhD-iFM 2018</a>, <a href="http://www.ictopen.nl/" target="_blank">ICT.OPEN 2018</a>, <a href="http://2018.discotec.org/cfp_w_ice.html" target="_blank">ICE 2018</a>, <a href="http://skill.informatik.uni-leipzig.de/blog/" target="_blank">SKILL 2018</a></li>	
 
+---
+
 ## PhD Committee Member and Referee
 
 * <a href="https://www.inf.tu-dresden.de/index.php?node_id=3841&ln=en" target="_blank">Dr. Simon Jantsch (TU Dresden, upcoming)</a>.
@@ -37,6 +39,8 @@ nav_order: 5
 
 * Dr. Rick Smetsers
 
+---
+
 ## Event Organization / Chair
 
 * <a href="https://www.lorentzcenter.nl/rigorous-automated-planning-2022.html" target="_blank">Lorentz Center Workshop: Rigorous Automated Planning</a>
@@ -48,6 +52,8 @@ nav_order: 5
 * <a href="http://qav.comlab.ox.ac.uk/robots_morality_trust/" target="_blank">Robots, Morality, and Trust through the Verification Lens (ReMOTE 2018, at CAV 2018)</a>
 
 * <a href="http://fever.nilsjansen.org" target="_blank">Formal Approaches to Explainable VERiﬁcation (FEVER 2017, at CAV 2017)</a>
+
+---
 
 ## External Reviewer (incomplete list)
 
