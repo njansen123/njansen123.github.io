@@ -11,7 +11,7 @@ I offer several thesis projects for topics that concern my research. For example
 
 
 
-## Responsible Lecturer and Course Coordinator
+# Responsible Lecturer and Course Coordinator
 
 **Processors:** 2017/2018, 2018/2019, 2019/2020, 2020/2021, 2021/2022, 2022/2023
 
@@ -20,7 +20,7 @@ I offer several thesis projects for topics that concern my research. For example
 **Operating Systems:** 2017/2018, 2018/2019, 2019/2020
 
 
-## Finished Bachelor Theses
+# Finished Bachelor Theses
 
 **Koen Verdenius** (2021, Bachelor thesis, A POMDP model for safety-critical systems and its deteriorating sensors)
 
@@ -47,7 +47,7 @@ I offer several thesis projects for topics that concern my research. For example
 **Matthias Volk** (2014, Verification and Synthesis for Parametric Markov Chains)	
 
 
-## Finished Master Theses
+# Finished Master Theses
 
 
 **Pleun Koldewijn** (2022, Optimal Order Execution for FX trading)      
