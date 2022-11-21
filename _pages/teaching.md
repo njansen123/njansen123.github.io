@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-I offer several thesis projects for topics that concern my research. For example, if you are interested in verification, artificial intelligence, machine learning, or probabilistic programming, please contact me! Some topics are listed on the institute <a href="http://www.sws.cs.ru.nl/Teaching/VerifiedMachineLearning" target="_blank"/><b>webpage</b></a>, for a full overview just <a href="mailto:n.jansen@science.ru.nl"><b>contact me</b></a>.
+I offer several thesis projects for topics that concern my research. For example, if you are interested in verification, artificial intelligence, machine learning, or probabilistic programming, please contact me! Some topics are listed on the institute <a href="http://www.sws.cs.ru.nl/Teaching/VerifiedMachineLearning" target="_blank"/>webpage</a>, for a full overview just <a href="mailto:n.jansen@science.ru.nl"><b>contact me</b></a>.
 
 
 
