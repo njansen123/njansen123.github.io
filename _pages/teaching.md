@@ -18,7 +18,7 @@ I offer several thesis projects for topics that concern my research. For example
 **Model Checking:** 2017/2018, 2018/2019, 2019/2020, 2020/2021, 2021/2022, 2022/2023
 
 **Operating Systems:** 2017/2018, 2018/2019, 2019/2020
-
+---
 
 ### Finished Bachelor Theses
 
@@ -45,7 +45,7 @@ I offer several thesis projects for topics that concern my research. For example
 **Tim Quatmann** (2015, Counterexamples for Expected Rewards)
 
 **Matthias Volk** (2014, Verification and Synthesis for Parametric Markov Chains)	
-
+---
 
 ### Finished Master Theses
 
