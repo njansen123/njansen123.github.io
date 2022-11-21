@@ -1,19 +1,19 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.6.19)  13 NOV 2022 20:25
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.6.19)  21 NOV 2022 23:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**repositories.tex
+**teaching.tex
 
 ! Emergency stop.
-<*> repositories.tex
-                    
+<*> teaching.tex
+                
 *** (job aborted, file error in nonstop mode)
 
  
 Here is how much of TeX's memory you used:
  3 strings out of 479418
- 180 string characters out of 5884585
+ 176 string characters out of 5884585
  245340 words of memory out of 5000000
  17624 multiletter control sequences out of 15000+600000
  532338 words of font info for 24 fonts, out of 8000000 for 9000
