@@ -68,7 +68,7 @@ I offer several thesis projects for topics that concern my research. For example
 	
 **Marnix Suilen** (2020, Entropy-guided decision making in multiple-environment Markov decision processes)
     
-**At RWTH Aachen University**
+**At RWTH Aachen University:**
 
 **Marian Van de veire** (2014, Minimal Critical Subsystems for Probabilistic Models with Nondeterminism)
         
