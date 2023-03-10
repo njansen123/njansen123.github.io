@@ -14,9 +14,9 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-This page is under construction, my old webpage is available <a href="http://www.cs.ru.nl/personal/nilsjansen/" target="_blank"><b>here</b></a>.
+This page is new, my old webpage is available <a href="http://www.cs.ru.nl/personal/nilsjansen/" target="_blank"><b>here</b></a>.
 
-My group conducts broad foundational and application-driven research in artificial intelligence (AI). We take a broad stance on AI that brings together the areas of machine learning and formal methods, in particular formal verification. We tackle problems that are inspired by autonomous systems, industrial projects, and in particular planning problems in robotics. 
+My group conducts broad foundational and application-driven research in artificial intelligence (AI), in particular neurosymbolic AI. We bring together the areas of machine learning and formal methods, in particular formal verification. We tackle problems that are inspired by autonomous systems, industrial projects, and in particular planning problems in robotics. 
 
 The following goals are central to our efforts:
 
