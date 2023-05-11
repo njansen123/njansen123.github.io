@@ -7,6 +7,8 @@ nav: true
 nav_order: 3
 ---
 
+We are creating a page for our group, check out <a href="https://lava-lab.org" target="_blank">lava-lab.org</a>
+
 **Thiago D. Simao** (Postdoc)
 
 **Thom Badings** (PhD Student)
