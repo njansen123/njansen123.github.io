@@ -10,7 +10,9 @@ nav_order: 5
 
 ## Program Committees
 
-**2023:** <a href="" target="_blank">QEST 2023 (co-chair)</a>, ICLR 2023, IJCAI 2023, ICML 2023
+**2024** <a href="https://www.aamas2024-conference.auckland.ac.nz/" target="_blank">AAMAS 2024 (area chair)</a>
+
+**2023:** <a href="https://www.qest.org/qest2023/" target="_blank">QEST 2023 (co-chair)</a>, ICLR 2023, IJCAI 2023, ICML 2023, NeurIPS 2023, SETTA 2023
 
 **2022:** <a href="" target="_blank">IJCAI 2022</a>, <a href="" target="_blank">AAMAS 2022</a>, <a href="" target="_blank">AAAI 2022</a>, <a href="https://iclr.cc/" target="_blank">ICLR 2022</a>, <a href="https://nips.cc/Conferences/2022" target="_blank">NeurIPS 2022</a>,
 

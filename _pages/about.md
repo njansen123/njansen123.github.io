@@ -14,8 +14,6 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-This page is new, my old webpage is available <a href="http://www.cs.ru.nl/personal/nilsjansen/" target="_blank"><b>here</b></a>.
-
 My group conducts broad foundational and application-driven research in artificial intelligence (AI), in particular neurosymbolic AI. We bring together the areas of machine learning and formal methods, in particular formal verification. We tackle problems that are inspired by autonomous systems, industrial projects, and in particular planning problems in robotics. 
 
 The following goals are central to our efforts:
@@ -25,6 +23,8 @@ The following goals are central to our efforts:
 * Enhance the capabilities of verification to handle real-world problems using learning techniques.
 
 We are interested in various aspects of dependability and safety in AI, intelligent decision-making under uncertainty, and safe reinforcement Learning. A key aspect of our research is a thorough understanding of the (epistemic or aleatoric) uncertainty that may occur when AI systems operate in the real world.
+
+Read more at <a href="https://lava-lab.org/" target="_blank">our group web page</a>. 
 
 
 
