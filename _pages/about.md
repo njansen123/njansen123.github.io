@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: <a href='#'></a>Associate Professor, Institute for Computing and Information Sciences, Radboud University Nijmegen.
+subtitle: <a href='#'></a>I am a Full Professor at the Ruhr-University Bochum in Germany. I lead the Chair of Safe and Reliable Artificial Intelligence. I am also an Associate Professor with Institute for Computing and Information Sciences at Radboud University Nijmegen, The Netherlands.
 
 profile:
   align: right
@@ -14,7 +14,7 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-My group conducts broad foundational and application-driven research in artificial intelligence (AI), in particular neurosymbolic AI. We bring together the areas of machine learning and formal methods, in particular formal verification. We tackle problems that are inspired by autonomous systems, industrial projects, and in particular planning problems in robotics. 
+We conduct broad foundational and application-driven research in artificial intelligence (AI), in particular neurosymbolic AI. We bring together the areas of machine learning and formal methods, in particular formal verification. We tackle problems that are inspired by autonomous systems, industrial projects, and in particular planning problems in robotics. 
 
 The following goals are central to our efforts:
 
