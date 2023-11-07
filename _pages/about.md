@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: <a href='#'></a>I am a Full Professor at the Ruhr-University Bochum in Germany. I lead the Chair of Safe and Reliable Artificial Intelligence. I am also an Associate Professor with Institute for Computing and Information Sciences at Radboud University Nijmegen, The Netherlands.
+subtitle: <a href='#'></a>I am a Full Professor at the Ruhr-University Bochum in Germany. I lead the Chair of Artificial Intelligence and Formal Methods. I am also an Associate Professor with Institute for Computing and Information Sciences at Radboud University Nijmegen, The Netherlands.
 
 profile:
   align: right
