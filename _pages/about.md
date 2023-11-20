@@ -14,17 +14,21 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-We conduct broad foundational and application-driven research in artificial intelligence (AI), in particular neurosymbolic AI. We bring together the areas of machine learning and formal methods, in particular formal verification. We tackle problems that are inspired by autonomous systems, industrial projects, and in particular planning problems in robotics. 
+The chair of Artificial Intelligence and Formal Methods has a mission: 
+
+<b>Increase the trustworthiness of Artificial Intelligence (AI).</b>
+
+We conduct broad foundational and application-driven research. Our vision of neurosymbolic AI brings together the areas of machine learning and formal methods, in particular, formal verification. We tackle problems that are inspired by autonomous systems, industrial projects, and planning problems in robotics.
 
 The following goals are central to our efforts:
 
-* Increase the dependability of AI in safety-critical environments.
-* Render AI models robust against uncertain knowledge about the environment they operate in.
-* Enhance the capabilities of verification to handle real-world problems using learning techniques.
+- Increase the dependability of AI in safety-critical environments.
+- Render AI models robust against uncertain knowledge about their environment.
+- Enhance the capabilities of formal verification to handle real-world problems using learning techniques.
 
 We are interested in various aspects of dependability and safety in AI, intelligent decision-making under uncertainty, and safe reinforcement Learning. A key aspect of our research is a thorough understanding of the (epistemic or aleatoric) uncertainty that may occur when AI systems operate in the real world.
 
-Read more at <a href="https://lava-lab.org/" target="_blank">our group web page</a>. 
+Read more at <a href="https://lava-lab.org/" target="_blank">the webpage of my group at Radboud University</a>. 
 
 
 
