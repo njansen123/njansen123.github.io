@@ -18,7 +18,7 @@ The chair of Artificial Intelligence and Formal Methods has a mission:
 
 <b>Increase the trustworthiness of Artificial Intelligence (AI).</b>
 
-We conduct broad foundational and application-driven research. Our vision of neurosymbolic AI brings together the areas of machine learning and formal methods, in particular, formal verification. We tackle problems that are inspired by autonomous systems, industrial projects, and planning problems in robotics.
+We conduct broad foundational and application-driven research. Our vision of neurosymbolic AI brings together the areas of machine learning and formal methods, in particular, formal verification. We tackle problems that are inspired by autonomous systems and planning problems in robotics.
 
 The following goals are central to our efforts:
 
