@@ -13,7 +13,7 @@ scholar:
 ---
 My peer-reviewed publications. See also my <b><a href='https://scholar.google.com/citations?hl=de&user=zUavkyEAAAAJ' target='_blank'>Google scholar</a></b> or my <b><a href='https://dblp.org/pid/32/8421-1.html' target='_blank'>dblp</a></b> page.
 
-<!--
+
 <!-- _pages/publications.md -->
 <div class="publications">
 
@@ -23,4 +23,4 @@ My peer-reviewed publications. See also my <b><a href='https://scholar.google.co
 {% endfor %}
 
 </div>
--->
+
