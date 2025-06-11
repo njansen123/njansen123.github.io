@@ -11,7 +11,8 @@ scholar:
   first_name: [Nils]
 
 ---
-My peer-reviewed publications. See also my <b><a href='https://scholar.google.com/citations?hl=de&user=zUavkyEAAAAJ' target='_blank'>Google scholar</a></b> or my <b><a href='https://dblp.org/pid/32/8421-1.html' target='_blank'>dblp</a></b> page.
+For an updated list of publications, check the list on <b><a href='https://ai-fm.org/publications/' target='_blank'>my group's webpage</a></b>.
+See also my <b><a href='https://scholar.google.com/citations?hl=de&user=zUavkyEAAAAJ' target='_blank'>Google scholar</a></b> or my <b><a href='https://dblp.org/pid/32/8421-1.html' target='_blank'>dblp</a></b> page.
 
 
 <!-- _pages/publications.md -->
