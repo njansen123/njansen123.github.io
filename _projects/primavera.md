@@ -5,6 +5,5 @@ description: Predictive maintenance for Very effective asset management (PrimaVe
 img: assets/img/primavera.png
 redirect: https://primavera-project.com/
 importance: 2
-category: work
+category: Concluded
 ---
-
