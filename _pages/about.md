@@ -9,12 +9,7 @@ profile:
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p><b>Ruhr University Bochum</b><br>
-    MC 4.151, Universitätsstr. 150<br>
-    44801 Bochum, Germany</p>
-    <p><b>Radboud University Nijmegen</b><br>
-    Room M1.01.05, Toernooiveld 212<br>
-    6525 EC Nijmegen, The Netherlands</p>
+    
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
