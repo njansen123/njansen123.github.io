@@ -11,6 +11,8 @@ scholar:
   first_name: [Nils]
 
 ---
+My publication record includes 95 conference papers, 22 journal articles, 4 book chapters, and 4 edited volumes.
+
 For an updated list of publications, check the list on <b><a href='https://ai-fm.org/publications/' target='_blank'>my group's webpage</a></b>.
 See also my <b><a href='https://scholar.google.com/citations?hl=de&user=zUavkyEAAAAJ' target='_blank'>Google scholar</a></b> or my <b><a href='https://dblp.org/pid/32/8421-1.html' target='_blank'>dblp</a></b> page.
 
