@@ -31,14 +31,20 @@
           <div class="title">{{entry.title}}</div>
           <!-- Author -->
           <div class="author">
-          {% assign author_array_size = entry.author_array | size %}
+          {% assign name_array = entry.author_array %}
+          {% assign is_editor_list = false %}
+          {% if name_array == empty or name_array == nil %}
+            {% assign name_array = entry.editor_array %}
+            {% assign is_editor_list = true %}
+          {% endif %}
+          {% assign author_array_size = name_array | size %}
 
           {% assign author_array_limit = author_array_size %}
           {%- if site.max_author_limit and author_array_size > site.max_author_limit %}
             {% assign author_array_limit = site.max_author_limit %}
           {% endif %}
 
-          {%- for author in entry.author_array limit: author_array_limit -%}
+          {%- for author in name_array limit: author_array_limit -%}
             {%- assign author_is_self = false -%}
             {%- assign author_last_name = author.last | remove: "¶" | remove: "&" | remove: "*" | remove: "†" | remove: "^" -%}
             {%- if site.scholar.last_name contains author_last_name -%}
@@ -78,7 +84,7 @@
               {%- assign more_authors_hide = more_authors_hide | append: "s" -%}
             {%- endif -%}
             {%- assign more_authors_show = '' -%}
-            {%- for author in entry.author_array offset: author_array_limit -%}
+            {%- for author in name_array offset: author_array_limit -%}
               {%- assign more_authors_show = more_authors_show | append: author.first | append: " " | append: author.last -%}
               {%- unless forloop.last -%}
                 {%- assign more_authors_show = more_authors_show | append: ", " -%}
@@ -102,6 +108,7 @@
                 "
             >{{more_authors_hide}}</span>
           {%- endif -%}
+          {%- if is_editor_list and author_array_size > 0 %}&nbsp;(eds.){% endif -%}
 
           </div>
 
