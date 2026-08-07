@@ -169,7 +169,7 @@ redirect_from:
 ## Editorial Boards
 
 <ul class="service-list">
-  <li><b>2026&ndash;:</b> Associate Editor, <a href="https://jair.org/" target="_blank">Journal of Artificial Intelligence Research (JAIR)</a>.</li>
+  <li>Associate Editor, <a href="https://jair.org/" target="_blank">Journal of Artificial Intelligence Research (JAIR)</a>.</li>
   <li>Co-Editor-in-Chief (with Bernhard Steffen), <a href="https://sttt.cs.uni-dortmund.de/thematic-themes/explain/" target="_blank">Explanation Paradigms Leveraging Analytic Intuition (ExPLAIn)</a> thematic theme, International Journal on Software Tools for Technology Transfer (STTT).</li>
 </ul>
 
@@ -214,15 +214,10 @@ redirect_from:
 
 ## Event Organization / Chair
 
-**Upcoming**
 <ul class="service-list">
   <li><a href="https://www.dagstuhl.de/24361" target="_blank">Dagstuhl Seminar 24361: Artificial Intelligence and Formal Methods Join Forces for Reliable Autonomy</a></li>
   <li><a href="https://www.dagstuhl.de/23492" target="_blank">Dagstuhl Seminar 23492: Model Learning for Improved Trustworthiness in Autonomous Systems</a></li>
   <li><a href="https://www.lorentzcenter.nl/predictive-maintenance-let-data-maintain-the-model.html" target="_blank">Lorentz Center Workshop: Predictive Maintenance: Let Data Maintain the Model</a></li>
-</ul>
-
-**Past events**
-<ul class="service-list">
   <li><a href="https://www.lorentzcenter.nl/rigorous-automated-planning-2022.html" target="_blank">Lorentz Center Workshop: Rigorous Automated Planning</a> (2022)</li>
   <li>SEN (National Symposium for Dutch researchers in Software Engineering), at CWI (2021)</li>
   <li><a href="https://function-2021.cs.ru.nl/" target="_blank">Flavors of UNCerTainty in Verification, Planning, and OpTimizatiON (FUNCTION 2021, at ICALP 2021)</a></li>
