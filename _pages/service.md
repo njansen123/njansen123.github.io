@@ -212,7 +212,7 @@ redirect_from:
 
 ---
 
-## Event Organization / Chair
+## Event Organization
 
 <ul class="service-list">
   <li><a href="https://www.dagstuhl.de/24361" target="_blank">Dagstuhl Seminar 24361: Artificial Intelligence and Formal Methods Join Forces for Reliable Autonomy</a></li>
