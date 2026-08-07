@@ -46,7 +46,12 @@ redirect_from:
   background: rgba(0,118,223,0.14);
   font-weight: 600;
 }
-.service-section h2 { margin-top: 2.5rem; }
+.service-section h2 {
+  margin-top: 2.5rem;
+  margin-bottom: 0.8rem;
+  font-size: 1.25rem;
+  font-weight: 600;
+}
 .service-list { padding-left: 1.2rem; }
 .service-list li { margin-bottom: 0.4rem; }
 </style>
