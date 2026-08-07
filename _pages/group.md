@@ -8,6 +8,15 @@ nav_order: 3
 ---
 For a detailed description of my team, please visit <a href="https://ai-fm.org/people/" target="_blank">our group web page</a>.
 
+<style>
+.group-section h2.category {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: 0.8rem;
+}
+.group-section.mt-4 { margin-top: 2.5rem !important; }
+</style>
+
 <div class="group-section">
   <h2 class="category">Postdocs</h2>
   <div class="row">
@@ -121,7 +130,7 @@ For a detailed description of my team, please visit <a href="https://ai-fm.org/p
       <div class="card h-100 border-0">
         <div class="card-body px-0">
           <h6 class="card-title mb-0">Wietze Koops</h6>
-          <small class="text-muted">ELLIS Fellow, 2022–2024</small>
+          <small class="text-muted">ELLIS Fellow, 2022&ndash;2024</small>
         </div>
       </div>
     </div>
@@ -129,15 +138,15 @@ For a detailed description of my team, please visit <a href="https://ai-fm.org/p
       <div class="card h-100 border-0">
         <div class="card-body px-0">
           <h6 class="card-title mb-0">Yannick Hogewind</h6>
-          <small class="text-muted">ELLIS Fellow, 2022–2023</small>
+          <small class="text-muted">ELLIS Fellow, 2022&ndash;2023</small>
         </div>
       </div>
     </div>
     <div class="col-md-6 col-lg-4 mb-3">
       <div class="card h-100 border-0">
         <div class="card-body px-0">
-          <h6 class="card-title mb-0">Thiago D. Simão</h6>
-          <small class="text-muted">Postdoc, 2022–2023</small>
+          <h6 class="card-title mb-0">Thiago D. Sim&atilde;o</h6>
+          <small class="text-muted">Postdoc, 2022&ndash;2023</small>
         </div>
       </div>
     </div>
@@ -145,7 +154,7 @@ For a detailed description of my team, please visit <a href="https://ai-fm.org/p
       <div class="card h-100 border-0">
         <div class="card-body px-0">
           <h6 class="card-title mb-0">Dennis Gross</h6>
-          <small class="text-muted">PhD Student, 2019–2023</small>
+          <small class="text-muted">PhD Student, 2019&ndash;2023</small>
         </div>
       </div>
     </div>
@@ -153,7 +162,7 @@ For a detailed description of my team, please visit <a href="https://ai-fm.org/p
       <div class="card h-100 border-0">
         <div class="card-body px-0">
           <h6 class="card-title mb-0">Zaharah A. Bukhsh</h6>
-          <small class="text-muted">Postdoc, 2020–2021</small>
+          <small class="text-muted">Postdoc, 2020&ndash;2021</small>
         </div>
       </div>
     </div>
@@ -161,7 +170,7 @@ For a detailed description of my team, please visit <a href="https://ai-fm.org/p
       <div class="card h-100 border-0">
         <div class="card-body px-0">
           <h6 class="card-title mb-0">Thom Badings</h6>
-          <small class="text-muted">PhD Student, 2020–2024</small>
+          <small class="text-muted">PhD Student, 2020&ndash;2024</small>
         </div>
       </div>
     </div>
@@ -169,7 +178,7 @@ For a detailed description of my team, please visit <a href="https://ai-fm.org/p
       <div class="card h-100 border-0">
         <div class="card-body px-0">
           <h6 class="card-title mb-0">Marnix Suilen</h6>
-          <small class="text-muted">PhD Student, 2020–2024</small>
+          <small class="text-muted">PhD Student, 2020&ndash;2024</small>
         </div>
       </div>
     </div>
@@ -177,7 +186,7 @@ For a detailed description of my team, please visit <a href="https://ai-fm.org/p
       <div class="card h-100 border-0">
         <div class="card-body px-0">
           <h6 class="card-title mb-0">Christoph Schmidl</h6>
-          <small class="text-muted">PhD Student, 2020–2024</small>
+          <small class="text-muted">PhD Student, 2020&ndash;2024</small>
         </div>
       </div>
     </div>
