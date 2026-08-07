@@ -208,6 +208,8 @@ redirect_from:
   <li><a href="https://ira.informatik.uni-freiburg.de/src/team_view.php?teamID=77" target="_blank">Leonore Winterer</a> (University of Freiburg)</li>
   <li>Alexis Linard (Radboud University)</li>
   <li>Rick Smetsers (Radboud University)</li>
+  <li>Konstantin Kueffner (IST Austria)</li>
+  <li>Pascal van der Vaart (TU Delft)</li>
 </ul>
 
 ---
