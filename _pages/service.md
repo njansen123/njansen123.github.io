@@ -170,7 +170,7 @@ redirect_from:
 
 <ul class="service-list">
   <li><b>2026&ndash;:</b> Associate Editor, <a href="https://jair.org/" target="_blank">Journal of Artificial Intelligence Research (JAIR)</a>.</li>
-  <li>Theme Editor-in-Chief (with Bernhard Steffen), <a href="https://sttt.cs.uni-dortmund.de/thematic-themes/explain/" target="_blank">Explanation Paradigms Leveraging Analytic Intuition (ExPLAIn)</a> thematic theme, International Journal on Software Tools for Technology Transfer (STTT).</li>
+  <li>Co-Editor-in-Chief (with Bernhard Steffen), <a href="https://sttt.cs.uni-dortmund.de/thematic-themes/explain/" target="_blank">Explanation Paradigms Leveraging Analytic Intuition (ExPLAIn)</a> thematic theme, International Journal on Software Tools for Technology Transfer (STTT).</li>
 </ul>
 
 ---
