@@ -58,6 +58,16 @@ redirect_from:
 <div class="service-timeline">
 
 <div class="year-row">
+  <div class="year-label">2026</div>
+  <div class="year-items">
+    <span class="service-pill"><a href="https://2026.ijcai.org/" target="_blank">IJCAI (SPC)</a></span>
+    <span class="service-pill"><a href="https://aaai.org/conference/aaai/aaai-26/" target="_blank">AAAI (SPC)</a></span>
+    <span class="service-pill">FMCAD</span>
+    <span class="service-pill">TACAS</span>
+  </div>
+</div>
+
+<div class="year-row">
   <div class="year-label">2025</div>
   <div class="year-items">
     <span class="service-pill chair"><a href="https://iclr.cc/" target="_blank">ICLR (Area Chair)</a></span>
@@ -156,6 +166,15 @@ redirect_from:
 
 </div>
 
+## Editorial Boards
+
+<ul class="service-list">
+  <li><b>2026&ndash;:</b> Associate Editor, <a href="https://jair.org/" target="_blank">Journal of Artificial Intelligence Research (JAIR)</a>.</li>
+  <li>Theme Editor-in-Chief (with Bernhard Steffen), <a href="https://sttt.cs.uni-dortmund.de/thematic-themes/explain/" target="_blank">Explanation Paradigms Leveraging Analytic Intuition (ExPLAIn)</a> thematic theme, International Journal on Software Tools for Technology Transfer (STTT).</li>
+</ul>
+
+---
+
 ## Academic Distinctions
 
 <ul class="service-list">
@@ -183,12 +202,12 @@ redirect_from:
   <li>Kush Grover (TU Munich)</li>
   <li>Qisong Yang (TU Delft)</li>
   <li>Zhuofan Xu (ENS Paris-Saclay)</li>
-  <li>Dr. Steven Carr (UT Austin)</li>
-  <li>Dr. <a href="https://www.inf.tu-dresden.de/index.php?node_id=3841&ln=en" target="_blank">Simon Jantsch</a> (TU Dresden)</li>
-  <li>Dr. <a href="https://www.mpi-sws.org/people/gavran/" target="_blank">Ivan Gavran</a> (MPI-SWS)</li>
+  <li>Steven Carr (UT Austin)</li>
+  <li><a href="https://www.inf.tu-dresden.de/index.php?node_id=3841&ln=en" target="_blank">Simon Jantsch</a> (TU Dresden)</li>
+  <li><a href="https://www.mpi-sws.org/people/gavran/" target="_blank">Ivan Gavran</a> (MPI-SWS)</li>
   <li><a href="https://ira.informatik.uni-freiburg.de/src/team_view.php?teamID=77" target="_blank">Leonore Winterer</a> (University of Freiburg)</li>
-  <li>Dr. Alexis Linard (Radboud University)</li>
-  <li>Dr. Rick Smetsers (Radboud University)</li>
+  <li>Alexis Linard (Radboud University)</li>
+  <li>Rick Smetsers (Radboud University)</li>
 </ul>
 
 ---
@@ -216,6 +235,6 @@ redirect_from:
 
 ## External Reviewer (incomplete list)
 
-<p>ACC, ACM Transactions on Computational Logic, ACM Transactions on Modeling and Computer Simulation, Acta Informatica, ATVA, CAV, CDC, CONCUR, FACS, FM, FMOODS&ndash;FORTE, FORMATS, FOSSACS, FSEN, FSTTCS, FTSCS, HSCC, IEEE Control Systems Letters, IFM, IJCAI, Journal of Artificial Intelligence Research, Petri Nets, QEST, SIMULTECH, Journal of Automated Reasoning, Journal of Systems and Software, International Journal of Robotics Research, TACAS, TASE, Theoretical Computer Science, IEEE Transactions of Reliability, IEEE Transactions on Automatic Control, and VMCAI.</p>
+<p>ACC, ACM Transactions on Computational Logic, ACM Transactions on Modeling and Computer Simulation, Acta Informatica, ATVA, CAV, CDC, CONCUR, FACS, FM, FMOODS&ndash;FORTE, FORMATS, FOSSACS, FSEN, FSTTCS, FTSCS, HSCC, IEEE Control Systems Letters, IFM, IJCAI, Petri Nets, QEST, SIMULTECH, Journal of Automated Reasoning, Journal of Systems and Software, International Journal of Robotics Research, TACAS, TASE, Theoretical Computer Science, IEEE Transactions of Reliability, IEEE Transactions on Automatic Control, and VMCAI.</p>
 
 </div>
