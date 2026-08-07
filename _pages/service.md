@@ -46,19 +46,18 @@ redirect_from:
   background: rgba(0,118,223,0.14);
   font-weight: 600;
 }
-.service-section h2 {
-  margin-top: 2.5rem;
-  margin-bottom: 0.8rem;
+.service-section h2.category {
   font-size: 1.25rem;
   font-weight: 600;
+  margin-bottom: 0.8rem;
 }
+.service-section.mt-4 { margin-top: 2.5rem !important; }
 .service-list { padding-left: 1.2rem; }
 .service-list li { margin-bottom: 0.4rem; }
 </style>
 
 <div class="service-section">
-
-## Program Committees
+<h2 class="category">Program Committees</h2>
 
 <div class="service-timeline">
 
@@ -171,16 +170,19 @@ redirect_from:
 
 </div>
 
-## Editorial Boards
+</div>
+
+<div class="service-section mt-4">
+<h2 class="category">Editorial Boards</h2>
 
 <ul class="service-list">
   <li>Associate Editor, <a href="https://jair.org/" target="_blank">Journal of Artificial Intelligence Research (JAIR)</a>.</li>
   <li>Co-Editor-in-Chief (with Bernhard Steffen), <a href="https://sttt.cs.uni-dortmund.de/thematic-themes/explain/" target="_blank">Explanation Paradigms Leveraging Analytic Intuition (ExPLAIn)</a> thematic theme, International Journal on Software Tools for Technology Transfer (STTT).</li>
 </ul>
+</div>
 
----
-
-## Academic Distinctions
+<div class="service-section mt-4">
+<h2 class="category">Academic Distinctions</h2>
 
 <ul class="service-list">
   <li><b>2024:</b> Elected Fellow of <a href="https://ellis.eu/person/nils-jansen" target="_blank">ELLIS</a> (European Laboratory for Learning and Intelligent Systems).</li>
@@ -189,10 +191,10 @@ redirect_from:
   <li><b>2022:</b> ICAART Best Student Paper Award (with Master student D. Kerkkamp), <i>Grouping of Maintenance Actions with Deep Reinforcement Learning and Graph Convolutional Networks</i>.</li>
   <li><b>2015:</b> Borchers Badge of RWTH Aachen University for the PhD examination with distinction, awarded to the top 10% of PhD students.</li>
 </ul>
+</div>
 
----
-
-## PhD Committee Member and Referee
+<div class="service-section mt-4">
+<h2 class="category">PhD Committee Member and Referee</h2>
 
 <ul class="service-list">
   <li>Clarissa Costen (University of Oxford)</li>
@@ -216,10 +218,10 @@ redirect_from:
   <li>Konstantin Kueffner (IST Austria)</li>
   <li>Pascal van der Vaart (TU Delft)</li>
 </ul>
+</div>
 
----
-
-## Event Organization
+<div class="service-section mt-4">
+<h2 class="category">Event Organization</h2>
 
 <ul class="service-list">
   <li><a href="https://www.dagstuhl.de/24361" target="_blank">Dagstuhl Seminar 24361: Artificial Intelligence and Formal Methods Join Forces for Reliable Autonomy</a></li>
@@ -232,11 +234,10 @@ redirect_from:
   <li><a href="http://qav.comlab.ox.ac.uk/robots_morality_trust/" target="_blank">Robots, Morality, and Trust through the Verification Lens (ReMOTE 2018, at CAV 2018)</a></li>
   <li><a href="http://fever.nilsjansen.org" target="_blank">Formal Approaches to Explainable VERiﬁcation (FEVER 2017, at CAV 2017)</a></li>
 </ul>
+</div>
 
----
-
-## External Reviewer (incomplete list)
+<div class="service-section mt-4">
+<h2 class="category">External Reviewer (incomplete list)</h2>
 
 <p>ACC, ACM Transactions on Computational Logic, ACM Transactions on Modeling and Computer Simulation, Acta Informatica, ATVA, CAV, CDC, CONCUR, FACS, FM, FMOODS&ndash;FORTE, FORMATS, FOSSACS, FSEN, FSTTCS, FTSCS, HSCC, IEEE Control Systems Letters, IFM, IJCAI, Petri Nets, QEST, SIMULTECH, Journal of Automated Reasoning, Journal of Systems and Software, International Journal of Robotics Research, TACAS, TASE, Theoretical Computer Science, IEEE Transactions of Reliability, IEEE Transactions on Automatic Control, and VMCAI.</p>
-
 </div>
