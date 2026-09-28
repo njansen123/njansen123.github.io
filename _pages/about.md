@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: <a href='#'></a>I am a Full Professor of Artificial Intelligence and Formal Methods at Ruhr University Bochum, Germany, and Professor of Safe and Dependable AI at Radboud University Nijmegen, The Netherlands. My research focuses on AI safety, trustworthy and reliable autonomous systems, and formal verification for machine learning.
+subtitle: <a href='#'></a>AI safety, trustworthy autonomous systems, and formal verification for machine learning.
 
 profile:
   align: right
@@ -14,22 +14,17 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-My research sits at the intersection of **AI safety**, **trustworthy AI**, **formal verification**, and **autonomous systems**. As head of the Chair of Artificial Intelligence and Formal Methods and Principal Investigator in the Cluster of Excellence [CASA](https://casa.rub.de/) (Cyber Security in the Age of Large-Scale Adversaries), my mission is:
 
-**Increase the trustworthiness of Artificial Intelligence (AI).**
+**Mission: making AI trustworthy by design.**
 
-We conduct broad foundational and application-driven research on **neurosymbolic AI**, combining **machine learning** with **formal methods** — with a particular focus on **formal verification** — to make AI systems safe, robust, and dependable. Our work is inspired by real-world challenges in autonomous systems, robotics, and planning under uncertainty.
+I am Full Professor and head of the Chair of Artificial Intelligence and Formal Methods at Ruhr University Bochum, and Professor of Safe and Dependable AI at Radboud University Nijmegen. I am also a Principal Investigator in the Cluster of Excellence [CASA](https://casa.rub.de/). My groups combine machine learning with formal methods to build AI that is safe, robust and dependable.
 
-The following goals are central to our efforts:
+**Research themes**
 
-- Increase the dependability of AI in safety-critical environments.
-- Render AI models robust against uncertain knowledge about their environment.
-- Enhance the capabilities of formal verification to handle real-world problems using learning techniques.
+- Safe reinforcement learning
+- Decision-making under uncertainty (MDPs, POMDPs, robust models)
+- Formal verification of learning-based systems
+- Neurosymbolic AI
+- Autonomous systems and robotics
 
-We work on **safe reinforcement learning** and **decision-making under uncertainty** (including POMDPs and MDPs). A key aspect of our research is a thorough understanding of the epistemic and aleatoric uncertainty that may occur when AI systems operate in the real world.
-
-**Read more** at <a href="https://ai-fm.org/" target="_blank">the webpage of my group(s)</a>, or at <a href="https://informatik.rub.de/en/research/chairs/aifm/" target="_blank">the official website of our chair</a> at Ruhr University. 
-
-
-
- 
+More on <a href="https://ai-fm.org/" target="_blank">my groups' website</a> and <a href="https://informatik.rub.de/en/research/chairs/aifm/" target="_blank">the chair's page at RUB</a>.
