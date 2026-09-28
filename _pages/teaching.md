@@ -52,8 +52,8 @@ I offer several thesis projects for topics that concern my research. For example
 <h2 class="category">Radboud University</h2>
 
 <ul class="teaching-list">
-  <li><b>Processors:</b> 2017/2018, 2018/2019, 2019/2020, 2020/2021, 2021/2022, 2022/2023</li>
-  <li><b>Model Checking:</b> 2017/2018, 2018/2019, 2019/2020, 2020/2021, 2021/2022, 2022/2023</li>
+  <li><b>Processors:</b> 2017/2018, 2018/2019, 2019/2020, 2020/2021, 2021/2022, 2022/2023, 2023/2024</li>
+  <li><b>Model Checking:</b> 2017/2018, 2018/2019, 2019/2020, 2020/2021, 2021/2022, 2022/2023, 2023/2024</li>
   <li><b>Operating Systems:</b> 2017/2018, 2018/2019, 2019/2020</li>
 </ul>
 </div>

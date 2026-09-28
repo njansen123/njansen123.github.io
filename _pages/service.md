@@ -75,6 +75,9 @@ redirect_from:
   <div class="year-label">2025</div>
   <div class="year-items">
     <span class="service-pill chair"><a href="https://iclr.cc/" target="_blank">ICLR (Area Chair)</a></span>
+    <span class="service-pill">AAAI</span>
+    <span class="service-pill">QEST</span>
+    <span class="service-pill">NeurIPS</span>
     <span class="service-pill">NFM</span>
   </div>
 </div>
@@ -114,6 +117,8 @@ redirect_from:
     <span class="service-pill">QEST</span>
     <span class="service-pill">ICML</span>
     <span class="service-pill">MOVEP</span>
+    <span class="service-pill">BNAIC/BeNeLearn</span>
+    <span class="service-pill">COMPSAC</span>
   </div>
 </div>
 
@@ -217,6 +222,8 @@ redirect_from:
   <li>Rick Smetsers (Radboud University)</li>
   <li>Konstantin Kueffner (IST Austria)</li>
   <li>Pascal van der Vaart (TU Delft)</li>
+  <li>Daniel Scholz (TU Dresden)</li>
+  <li>Xiatong Cheng (Ruhr University Bochum)</li>
 </ul>
 </div>
 
@@ -224,9 +231,10 @@ redirect_from:
 <h2 class="category">Event Organization</h2>
 
 <ul class="service-list">
-  <li><a href="https://www.dagstuhl.de/24361" target="_blank">Dagstuhl Seminar 24361: Artificial Intelligence and Formal Methods Join Forces for Reliable Autonomy</a></li>
-  <li><a href="https://www.dagstuhl.de/23492" target="_blank">Dagstuhl Seminar 23492: Model Learning for Improved Trustworthiness in Autonomous Systems</a></li>
-  <li><a href="https://www.lorentzcenter.nl/predictive-maintenance-let-data-maintain-the-model.html" target="_blank">Lorentz Center Workshop: Predictive Maintenance: Let Data Maintain the Model</a></li>
+  <li><a href="https://www.dagstuhl.de/24361" target="_blank">Dagstuhl Seminar 24361: Artificial Intelligence and Formal Methods Join Forces for Reliable Autonomy</a> (2024)</li>
+  <li>AISoLA 2023, Track C2 Chair (2023)</li>
+  <li><a href="https://www.dagstuhl.de/23492" target="_blank">Dagstuhl Seminar 23492: Model Learning for Improved Trustworthiness in Autonomous Systems</a> (2023)</li>
+  <li><a href="https://www.lorentzcenter.nl/predictive-maintenance-let-data-maintain-the-model.html" target="_blank">Lorentz Center Workshop: Predictive Maintenance: Let Data Maintain the Model</a> (2023)</li>
   <li><a href="https://www.lorentzcenter.nl/rigorous-automated-planning-2022.html" target="_blank">Lorentz Center Workshop: Rigorous Automated Planning</a> (2022)</li>
   <li>SEN (National Symposium for Dutch researchers in Software Engineering), at CWI (2021)</li>
   <li><a href="https://function-2021.cs.ru.nl/" target="_blank">Flavors of UNCerTainty in Verification, Planning, and OpTimizatiON (FUNCTION 2021, at ICALP 2021)</a></li>

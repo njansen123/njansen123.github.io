@@ -146,7 +146,7 @@ For a detailed description of my team, please visit <a href="https://ai-fm.org/p
       <div class="card h-100 border-0">
         <div class="card-body px-0">
           <h6 class="card-title mb-0">Thiago D. Sim&atilde;o</h6>
-          <small class="text-muted">Postdoc, 2022&ndash;2023</small>
+          <small class="text-muted">Postdoc, 2021&ndash;2023</small>
         </div>
       </div>
     </div>
@@ -170,7 +170,7 @@ For a detailed description of my team, please visit <a href="https://ai-fm.org/p
       <div class="card h-100 border-0">
         <div class="card-body px-0">
           <h6 class="card-title mb-0">Thom Badings</h6>
-          <small class="text-muted">PhD Student, 2020&ndash;2024</small>
+          <small class="text-muted">PhD Student, 2020&ndash;2025</small>
         </div>
       </div>
     </div>
@@ -178,7 +178,7 @@ For a detailed description of my team, please visit <a href="https://ai-fm.org/p
       <div class="card h-100 border-0">
         <div class="card-body px-0">
           <h6 class="card-title mb-0">Marnix Suilen</h6>
-          <small class="text-muted">PhD Student, 2020&ndash;2024</small>
+          <small class="text-muted">PhD Student, 2020&ndash;2025</small>
         </div>
       </div>
     </div>

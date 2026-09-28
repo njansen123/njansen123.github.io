@@ -14,7 +14,7 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-My research sits at the intersection of **AI safety**, **trustworthy AI**, **formal verification**, and **autonomous systems**. As head of the Chair of Artificial Intelligence and Formal Methods, my mission is:
+My research sits at the intersection of **AI safety**, **trustworthy AI**, **formal verification**, and **autonomous systems**. As head of the Chair of Artificial Intelligence and Formal Methods and Principal Investigator in the Cluster of Excellence [CASA](https://casa.rub.de/) (Cyber Security in the Age of Large-Scale Adversaries), my mission is:
 
 **Increase the trustworthiness of Artificial Intelligence (AI).**
 
