@@ -196,6 +196,13 @@ redirect_from:
   <li><b>2022:</b> ICAART Best Student Paper Award (with Master student D. Kerkkamp), <i>Grouping of Maintenance Actions with Deep Reinforcement Learning and Graph Convolutional Networks</i>.</li>
   <li><b>2015:</b> Borchers Badge of RWTH Aachen University for the PhD examination with distinction, awarded to the top 10% of PhD students.</li>
 </ul>
+
+<h3 class="mt-3" style="font-size:1.05rem;font-weight:600;">Awards of my PhD students</h3>
+<ul class="service-list">
+  <li><b>2026:</b> Thom Badings: ETAPS Doctoral Dissertation Award and KHMW Kees Schouhamer Immink Proefschriftprijs, for his thesis <i>Robust Verification of Stochastic Systems: Guarantees in the Presence of Uncertainty</i> (PhD cum laude, 2025).</li>
+  <li><b>2025:</b> Thom Badings: Honorable Mention, AAAI/ACM SIGAI Doctoral Dissertation Award.</li>
+  <li><b>2023:</b> Eline Bovy: BNAIC/BeNeLearn Best Thesis Award; she also holds a Christine Mohrmann Stipend for promising female PhD students at Radboud University.</li>
+</ul>
 </div>
 
 <div class="service-section mt-4">

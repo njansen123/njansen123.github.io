@@ -170,7 +170,8 @@ For a detailed description of my team, please visit <a href="https://ai-fm.org/p
       <div class="card h-100 border-0">
         <div class="card-body px-0">
           <h6 class="card-title mb-0">Thom Badings</h6>
-          <small class="text-muted">PhD Student, 2020&ndash;2025</small>
+          <small class="text-muted">PhD Student, 2020&ndash;2025 (cum laude)</small><br>
+          <small class="text-muted">ETAPS Doctoral Dissertation Award 2026</small>
         </div>
       </div>
     </div>
