@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: <a href='#'></a>AI safety, trustworthy autonomous systems, and formal verification for machine learning.
+subtitle: <a href='#'></a>Neurosymbolic AI: safe, trustworthy autonomous systems through formal verification and machine learning.
 
 profile:
   align: right
@@ -21,9 +21,9 @@ I am Full Professor and head of the Chair of Artificial Intelligence and Formal 
 
 **Research themes**
 
+- Neurosymbolic verification: formal guarantees for learning-based systems
 - Safe reinforcement learning
 - Decision-making under uncertainty (MDPs, POMDPs, robust models)
-- Formal verification of learning-based systems
 - Neurosymbolic AI
 - Autonomous systems and robotics
 
