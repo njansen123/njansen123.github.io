@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: <a href='#'></a>Neurosymbolic AI: safe, trustworthy autonomous systems through formal verification and machine learning.
+subtitle: "<a href='#'></a>Neurosymbolic AI: safe, trustworthy autonomous systems through formal verification and machine learning."
 
 profile:
   align: right
