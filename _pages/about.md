@@ -24,7 +24,7 @@ I am Full Professor and head of the Chair of Artificial Intelligence and Formal 
 - Neurosymbolic verification: formal guarantees for learning-based systems
 - Safe reinforcement learning
 - Decision-making under uncertainty (MDPs, POMDPs, robust models)
-- Neurosymbolic AI
+- Dynamical systems and control learning with formal guarantees
 - Autonomous systems and robotics
 
 More on <a href="https://ai-fm.org/" target="_blank">my groups' website</a> and <a href="https://informatik.rub.de/en/research/chairs/aifm/" target="_blank">the chair's page at RUB</a>, or download my <a href="/assets/pdf/cv-jansen.pdf" target="_blank">CV (PDF)</a>.
