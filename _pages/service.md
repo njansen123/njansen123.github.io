@@ -252,7 +252,7 @@ redirect_from:
 <div class="service-section mt-4">
 <h2 class="category">Media</h2>
 <ul class="service-list">
-  <li><b>2024:</b> MIT Technology Review: <i><a href="https://t3n.de/news/mathematik-ki-braucht-dringend-nachhilfe-1626083/" target="_blank">Mathematik | KI braucht dringend Nachhilfe</a></i> (Eike Kühl).</li>
+  <li><b>2024:</b> MIT Technology Review: <i><a href="https://www.heise.de/select/tr/2024/3/2405208074783443934" target="_blank">Mathematik | KI braucht dringend Nachhilfe</a></i> (Eike Kühl).</li>
   <li><b>2023:</b> I/O Magazine: <i>How can AI better handle uncertainties in the real world?</i> (Bennie Mols).</li>
   <li><b>2023:</b> TechGelderland: <i><a href="https://www.techgelderland.nl/werken/using-data-to-make-the-world-safer/" target="_blank">Using data to make the world safer</a></i> (Joep Peters).</li>
   <li><b>2022:</b> AIhub: <i><a href="https://aihub.org/2022/04/05/developing-safe-controllers-for-autonomous-systems-under-uncertainty/" target="_blank">Developing safe controllers for autonomous systems under uncertainty</a></i> (Thom Badings and Nils Jansen).</li>
