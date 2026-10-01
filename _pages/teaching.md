@@ -38,12 +38,13 @@ I offer thesis projects on topics related to my research, such as verification, 
   <li>Lab Course: Challenging Problems in Reinforcement Learning</li>
   <li>Programming for Modern Machine Learning</li>
   <li>Seminar: Safety and Reliability in Artificial Intelligence</li>
-  <li>Preparatory Course in Computer Science (Python)</li>
+  <li>Preparatory Course in Computer Science</li>
 </ul>
 
 <div class="teaching-term">Summer Term 2026</div>
 <ul class="teaching-list">
   <li>Programming and Programming Languages</li>
+  <li>Lab Course: Challenging Problems in Reinforcement Learning</li>
   <li>Seminar: Safety and Reliability in Artificial Intelligence</li>
 </ul>
 
