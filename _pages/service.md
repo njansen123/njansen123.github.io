@@ -244,7 +244,7 @@ redirect_from:
 <div class="service-section mt-4">
 <h2 class="category">Institutional Responsibilities</h2>
 <ul class="service-list">
-  <li><b>Current:</b> Coordinator of school outreach and member of the advisory council (Beraterkreis) and the Academic Advisory Board (Studienbeirat) of the Faculty of Computer Science, Ruhr University Bochum.</li>
+  <li><b>Current:</b> Member of the Faculty Council (Fakultätsrat), coordinator of school outreach, and member of the advisory council (Beraterkreis) and the Academic Advisory Board (Studienbeirat) of the Faculty of Computer Science, Ruhr University Bochum.</li>
   <li><b>2023:</b> Vice head of the Department of Software Science, Radboud University.</li>
 </ul>
 </div>
