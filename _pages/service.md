@@ -59,14 +59,14 @@ redirect_from:
 <div class="service-section">
 <h2 class="category">Program Committees</h2>
 
-<p><b>Steering committee:</b> QEST (International Conference on Quantitative Evaluation of SysTems), since 2023.</p>
+<p><b>Steering committee:</b> <a href="https://www.qest.org/" target="_blank">QEST</a> (International Conference on Quantitative Evaluation of SysTems), since 2023.</p>
 
 <div class="service-timeline">
 
 <div class="year-row">
   <div class="year-label">2027</div>
   <div class="year-items">
-    <span class="service-pill chair">CAV (Area Chair)</span>
+    <span class="service-pill chair"><a href="https://conferences.i-cav.org/2027/" target="_blank">CAV (Area Chair)</a></span>
   </div>
 </div>
 
@@ -75,30 +75,30 @@ redirect_from:
   <div class="year-items">
     <span class="service-pill"><a href="https://2026.ijcai.org/" target="_blank">IJCAI (SPC)</a></span>
     <span class="service-pill"><a href="https://aaai.org/conference/aaai/aaai-26/" target="_blank">AAAI (SPC)</a></span>
-    <span class="service-pill">FMCAD</span>
-    <span class="service-pill">TACAS</span>
+    <span class="service-pill"><a href="https://fmcad.org/FMCAD26/" target="_blank">FMCAD</a></span>
+    <span class="service-pill"><a href="https://etaps.org/2026/conferences/tacas/" target="_blank">TACAS</a></span>
   </div>
 </div>
 
 <div class="year-row">
   <div class="year-label">2025</div>
   <div class="year-items">
-    <span class="service-pill chair"><a href="https://iclr.cc/" target="_blank">ICLR (Area Chair)</a></span>
-    <span class="service-pill">AAAI</span>
-    <span class="service-pill">QEST</span>
-    <span class="service-pill">NeurIPS</span>
-    <span class="service-pill">NFM</span>
+    <span class="service-pill chair"><a href="https://iclr.cc/Conferences/2025" target="_blank">ICLR (Area Chair)</a></span>
+    <span class="service-pill"><a href="https://aaai.org/conference/aaai/aaai-25/" target="_blank">AAAI</a></span>
+    <span class="service-pill"><a href="https://www.qest.org/qest-formats-2025" target="_blank">QEST</a></span>
+    <span class="service-pill"><a href="https://neurips.cc/Conferences/2025" target="_blank">NeurIPS</a></span>
+    <span class="service-pill"><a href="https://shemesh.larc.nasa.gov/nfm2025/" target="_blank">NFM</a></span>
   </div>
 </div>
 
 <div class="year-row">
   <div class="year-label">2024</div>
   <div class="year-items">
-    <span class="service-pill chair"><a href="https://www.aamas2024-conference.auckland.ac.nz/" target="_blank">AAMAS (Area Chair)</a></span>
-    <span class="service-pill">TACAS</span>
-    <span class="service-pill">AAAI</span>
-    <span class="service-pill">QEST</span>
-    <span class="service-pill">NeurIPS</span>
+    <span class="service-pill chair"><a href="https://www.ifaamas.org/AAMAS/aamas2024/" target="_blank">AAMAS (Area Chair)</a></span>
+    <span class="service-pill"><a href="https://etaps.org/2024/conferences/tacas/" target="_blank">TACAS</a></span>
+    <span class="service-pill"><a href="https://aaai.org/conference/aaai/aaai-24/" target="_blank">AAAI</a></span>
+    <span class="service-pill"><a href="https://www.qest.org/qest-formats-2024" target="_blank">QEST</a></span>
+    <span class="service-pill"><a href="https://neurips.cc/Conferences/2024" target="_blank">NeurIPS</a></span>
   </div>
 </div>
 
@@ -106,28 +106,28 @@ redirect_from:
   <div class="year-label">2023</div>
   <div class="year-items">
     <span class="service-pill chair"><a href="https://www.qest.org/qest2023/" target="_blank">QEST (co-chair)</a></span>
-    <span class="service-pill">ICLR</span>
-    <span class="service-pill">IJCAI</span>
-    <span class="service-pill">ICML</span>
-    <span class="service-pill">NeurIPS</span>
-    <span class="service-pill">SETTA</span>
-    <span class="service-pill">AAAI</span>
+    <span class="service-pill"><a href="https://iclr.cc/Conferences/2023" target="_blank">ICLR</a></span>
+    <span class="service-pill"><a href="https://ijcai-23.org/" target="_blank">IJCAI</a></span>
+    <span class="service-pill"><a href="https://icml.cc/Conferences/2023" target="_blank">ICML</a></span>
+    <span class="service-pill"><a href="https://neurips.cc/Conferences/2023" target="_blank">NeurIPS</a></span>
+    <span class="service-pill"><a href="https://link.springer.com/978-981-99-8663-7" target="_blank">SETTA</a></span>
+    <span class="service-pill"><a href="https://aaai-23.aaai.org/" target="_blank">AAAI</a></span>
   </div>
 </div>
 
 <div class="year-row">
   <div class="year-label">2022</div>
   <div class="year-items">
-    <span class="service-pill"><a href="" target="_blank">IJCAI</a></span>
-    <span class="service-pill"><a href="" target="_blank">AAMAS</a></span>
-    <span class="service-pill"><a href="" target="_blank">AAAI</a></span>
-    <span class="service-pill"><a href="https://iclr.cc/" target="_blank">ICLR</a></span>
-    <span class="service-pill"><a href="https://nips.cc/Conferences/2022" target="_blank">NeurIPS</a></span>
-    <span class="service-pill">QEST</span>
-    <span class="service-pill">ICML</span>
-    <span class="service-pill">MOVEP</span>
-    <span class="service-pill">BNAIC/BeNeLearn</span>
-    <span class="service-pill">COMPSAC</span>
+    <span class="service-pill"><a href="https://ijcai-22.org/" target="_blank">IJCAI</a></span>
+    <span class="service-pill"><a href="https://aamas2022-conference.auckland.ac.nz/" target="_blank">AAMAS</a></span>
+    <span class="service-pill"><a href="https://aaai.org/Conferences/AAAI-22/" target="_blank">AAAI</a></span>
+    <span class="service-pill"><a href="https://iclr.cc/Conferences/2022" target="_blank">ICLR</a></span>
+    <span class="service-pill"><a href="https://neurips.cc/Conferences/2022" target="_blank">NeurIPS</a></span>
+    <span class="service-pill"><a href="https://www.qest.org/qest2022/" target="_blank">QEST</a></span>
+    <span class="service-pill"><a href="https://icml.cc/Conferences/2022" target="_blank">ICML</a></span>
+    <span class="service-pill"><a href="https://movep2022.cs.aau.dk/" target="_blank">MOVEP</a></span>
+    <span class="service-pill"><a href="https://bnaic2022.uantwerpen.be/" target="_blank">BNAIC/BeNeLearn</a></span>
+    <span class="service-pill"><a href="https://ieeecompsac.computer.org/2022/" target="_blank">COMPSAC</a></span>
   </div>
 </div>
 
@@ -142,8 +142,8 @@ redirect_from:
     <span class="service-pill"><a href="https://conf.researchr.org/track/ecoop-issta-2021/ecoop-issta-2021-spin" target="_blank">SPIN</a></span>
     <span class="service-pill"><a href="https://aaai.org/Conferences/AAAI-21/" target="_blank">AAAI</a></span>
     <span class="service-pill"><a href="https://sites.uclouvain.be/adhs21/" target="_blank">ADHS</a></span>
-    <span class="service-pill"><a href="https://iclr.cc/" target="_blank">ICLR</a></span>
-    <span class="service-pill"><a href="" target="_blank">FASE</a></span>
+    <span class="service-pill"><a href="https://iclr.cc/Conferences/2021" target="_blank">ICLR</a></span>
+    <span class="service-pill"><a href="https://etaps.org/2021/fase.html" target="_blank">FASE</a></span>
   </div>
 </div>
 
@@ -162,8 +162,8 @@ redirect_from:
 <div class="year-row">
   <div class="year-label">2019</div>
   <div class="year-items">
-    <span class="service-pill"><a href="https://nips.cc" target="_blank">NeurIPS</a></span>
-    <span class="service-pill">IJCAI</span>
+    <span class="service-pill"><a href="https://neurips.cc/Conferences/2019" target="_blank">NeurIPS</a></span>
+    <span class="service-pill"><a href="https://www.ijcai19.org/" target="_blank">IJCAI</a></span>
     <span class="service-pill"><a href="http://www.qest.org/qest2019/" target="_blank">QEST</a></span>
     <span class="service-pill"><a href="https://e-nns.org/icann2019/" target="_blank">ICANN</a></span>
     <span class="service-pill"><a href="http://www4.comp.polyu.edu.hk/~csguannan/setta19/" target="_blank">SETTA</a></span>
@@ -200,44 +200,44 @@ redirect_from:
 
 <ul class="service-list">
   <li><b>2024:</b> Elected Fellow of <a href="https://ellis.eu/person/nils-jansen" target="_blank">ELLIS</a> (European Laboratory for Learning and Intelligent Systems).</li>
-  <li><b>2022:</b> ERC Starting Grant, <i>DEUCE: Data-Driven Verification and Learning Under Uncertainty</i>.</li>
-  <li><b>2022:</b> AAAI Distinguished Paper Award, <i>Sampling-Based Robust Control of Autonomous Systems with Non-Gaussian Noise</i>.</li>
-  <li><b>2022:</b> ICAART Best Student Paper Award (with Master student D. Kerkkamp), <i>Grouping of Maintenance Actions with Deep Reinforcement Learning and Graph Convolutional Networks</i>.</li>
+  <li><b>2022:</b> ERC Starting Grant, <i><a href="https://cordis.europa.eu/project/id/101077178" target="_blank">DEUCE</a>: Data-Driven Verification and Learning Under Uncertainty</i>.</li>
+  <li><b>2022:</b> AAAI Distinguished Paper Award, <i><a href="https://ojs.aaai.org/index.php/AAAI/article/view/21201" target="_blank">Sampling-Based Robust Control of Autonomous Systems with Non-Gaussian Noise</a></i>.</li>
+  <li><b>2022:</b> ICAART Best Student Paper Award (with Master student D. Kerkkamp), <i><a href="https://www.scitepress.org/Papers/2022/109075/" target="_blank">Grouping of Maintenance Actions with Deep Reinforcement Learning and Graph Convolutional Networks</a></i>.</li>
   <li><b>2015:</b> Borchers Badge of RWTH Aachen University for the PhD examination with distinction, awarded to the top 10% of PhD students.</li>
 </ul>
 
 <h3 class="mt-3" style="font-size:1.05rem;font-weight:600;">Awards of my PhD students</h3>
 <ul class="service-list">
-  <li><b>2026:</b> Thom Badings: ETAPS Doctoral Dissertation Award, IPA Dissertation Award and KHMW Kees Schouhamer Immink Proefschriftprijs, for his thesis <i>Robust Verification of Stochastic Systems: Guarantees in the Presence of Uncertainty</i> (PhD cum laude, 2025).</li>
-  <li><b>2025:</b> Thom Badings: Honorable Mention, AAAI/ACM SIGAI Doctoral Dissertation Award.</li>
-  <li><b>2023:</b> Eline Bovy: BNAIC/BeNeLearn Best Thesis Award; she also holds a Christine Mohrmann Stipend for promising female PhD students at Radboud University.</li>
+  <li><b>2026:</b> Thom Badings: <a href="https://etaps.org/awards/doctoral-dissertation/" target="_blank">ETAPS Doctoral Dissertation Award</a>, IPA Dissertation Award and <a href="https://khmw.nl/interview-met-thom-badings-winnaar-kees-schouhamer-immink-proefschriftprijs/" target="_blank">KHMW Kees Schouhamer Immink Proefschriftprijs</a>, for his thesis <i>Robust Verification of Stochastic Systems: Guarantees in the Presence of Uncertainty</i> (PhD cum laude, 2025).</li>
+  <li><b>2025:</b> Thom Badings: Honorable Mention, <a href="https://erlangenhub.ox.ac.uk/thom-badings-aaai-2026-honourable-mention/" target="_blank">AAAI/ACM SIGAI Doctoral Dissertation Award</a>.</li>
+  <li><b>2023:</b> Eline Bovy: <a href="https://ii.tudelft.nl/bnvki/conference-report-bnaic-benelearn-2023/" target="_blank">BNAIC/BeNeLearn Best Thesis Award</a>; she also holds a Christine Mohrmann Stipend for promising female PhD students at Radboud University.</li>
 </ul>
 </div>
 
 <div class="service-section mt-4">
 <h2 class="category">Selected Talks</h2>
 <ul class="service-list">
-  <li><b>2026:</b> <span class="badge" style="background:var(--global-theme-color,#0076df);color:#fff;font-weight:600;margin-right:.35rem;">Keynote</span>8th International Workshop on Formal Methods for Autonomous Systems (FMAS 2026), upcoming.</li>
-  <li><b>2026:</b> <span class="badge" style="background:var(--global-theme-color,#0076df);color:#fff;font-weight:600;margin-right:.35rem;">Keynote</span>IPA Fall Days 2026, upcoming.</li>
-  <li><b>2026:</b> AI Colloquium, Lamarr Institute and RC Trust, TU Dortmund, <i>Safe Learning Systems: Artificial Intelligence and Formal Methods</i>.</li>
-  <li><b>2025:</b> <span class="badge" style="background:var(--global-theme-color,#0076df);color:#fff;font-weight:600;margin-right:.35rem;">Keynote</span>International Conference on Runtime Verification (RV 2025), <i>Neurosymbolic Learning Systems: Artificial Intelligence and Formal Methods</i>.</li>
-  <li><b>2025:</b> <span class="badge" style="background:var(--global-theme-color,#0076df);color:#fff;font-weight:600;margin-right:.35rem;">Keynote</span>International Conference on Rigorous State-Based Methods (ABZ 2025), <i>Neurosymbolic Learning Systems: Artificial Intelligence and Formal Methods</i>.</li>
+  <li><b>2026:</b> <span class="badge" style="background:var(--global-theme-color,#0076df);color:#fff;font-weight:600;margin-right:.35rem;">Keynote</span><a href="https://fmasworkshop.github.io/FMAS2026/" target="_blank">8th International Workshop on Formal Methods for Autonomous Systems (FMAS 2026)</a>, upcoming.</li>
+  <li><b>2026:</b> <span class="badge" style="background:var(--global-theme-color,#0076df);color:#fff;font-weight:600;margin-right:.35rem;">Keynote</span><a href="https://ipa.win.tue.nl/" target="_blank">IPA Fall Days 2026</a>, upcoming.</li>
+  <li><b>2026:</b> <a href="https://lamarr-institute.org/events/ai-colloquium-with-prof-dr-jansen-on-safe-learning-systems-artificial-intelligence-and-formal-method/" target="_blank">AI Colloquium, Lamarr Institute and RC Trust, TU Dortmund</a>, <i>Safe Learning Systems: Artificial Intelligence and Formal Methods</i>.</li>
+  <li><b>2025:</b> <span class="badge" style="background:var(--global-theme-color,#0076df);color:#fff;font-weight:600;margin-right:.35rem;">Keynote</span><a href="https://rv25.isec.tugraz.at/?page_id=24" target="_blank">International Conference on Runtime Verification (RV 2025)</a>, <i>Neurosymbolic Learning Systems: Artificial Intelligence and Formal Methods</i>.</li>
+  <li><b>2025:</b> <span class="badge" style="background:var(--global-theme-color,#0076df);color:#fff;font-weight:600;margin-right:.35rem;">Keynote</span><a href="https://abz-conf.org/site/2025/keynotes" target="_blank">International Conference on Rigorous State-Based Methods (ABZ 2025)</a>, <i>Neurosymbolic Learning Systems: Artificial Intelligence and Formal Methods</i>.</li>
   <li><b>2025:</b> <span class="badge" style="background:var(--global-theme-color,#0076df);color:#fff;font-weight:600;margin-right:.35rem;">Keynote</span>Research Training Group UnRAVeL, RWTH Aachen University, <i>Neurosymbolic Learning Systems: Artificial Intelligence and Formal Methods</i>.</li>
-  <li><b>2025:</b> Technion &ndash; Israel Institute of Technology, <i>Neurosymbolic Learning Systems: Artificial Intelligence and Formal Methods</i>.</li>
+  <li><b>2025:</b> <a href="https://www.youtube.com/watch?v=Au_QDBiCMdI" target="_blank">Technion &ndash; Israel Institute of Technology</a>, <i>Neurosymbolic Learning Systems: Artificial Intelligence and Formal Methods</i> (video).</li>
   <li><b>2025:</b> NVIDIA, <i>Neurosymbolic Intelligent (Reinforcement) Learning Systems</i>.</li>
   <li><b>2025:</b> IT University of Copenhagen, <i>Reliability and Safety in Artificial Intelligence</i>.</li>
-  <li><b>2024:</b> Center for Autonomy Seminar, Oden Institute, UT Austin, <i>Artificial Intelligence Planning: Uncertainty Is Inevitable</i>.</li>
+  <li><b>2024:</b> <a href="https://autonomy.oden.utexas.edu/events/center-autonomy-seminar-nils-jansen" target="_blank">Center for Autonomy Seminar, Oden Institute, UT Austin</a>, <i>Artificial Intelligence Planning: Uncertainty Is Inevitable</i>.</li>
   <li><b>2024:</b> Bosch Center for Artificial Intelligence, Renningen, <i>Artificial Intelligence Planning: Uncertainty Is Inevitable</i>.</li>
-  <li><b>2024:</b> Tutorial, MOVEP 2024 summer school, <i>Decision-Making Under Uncertainty Meets Neurosymbolic AI</i>.</li>
-  <li><b>2024:</b> Neuro-Symbolic AI Summer School, Centaur AI Institute (online), <i>A Neurosymbolic Meetup of AI and Formal Methods</i>.</li>
-  <li><b>2023:</b> <span class="badge" style="background:var(--global-theme-color,#0076df);color:#fff;font-weight:600;margin-right:.35rem;">Keynote</span>25th International Symposium on Formal Methods (FM 2023), <i>Intelligent and Dependable Decision-Making Under Uncertainty</i>.</li>
-  <li><b>2023:</b> <span class="badge" style="background:var(--global-theme-color,#0076df);color:#fff;font-weight:600;margin-right:.35rem;">Keynote</span>12th Workshop on Synthesis (SYNT 2023), co-located with CAV, <i>Decision-Making under Uncertainty: Challenges and Highlights</i>.</li>
-  <li><b>2023:</b> <span class="badge" style="background:var(--global-theme-color,#0076df);color:#fff;font-weight:600;margin-right:.35rem;">Keynote</span>Workshop on Verifiable and Robust AI (VRAI), Denmark, <i>Uncertainty Is Inevitable</i>.</li>
-  <li><b>2023:</b> Department of Computer Science, University of Oxford, <i>Dependable Decision-Making Under Uncertainty: Beyond Probabilities</i>.</li>
-  <li><b>2023:</b> Digital Futures, KTH Royal Institute of Technology, <i>Neuro-Symbolic Artificial Intelligence: Intelligent Decisions Under Uncertainty</i>.</li>
-  <li><b>2023:</b> WOLVERINE workshop, co-located with CAV, <i>Safe Reinforcement Learning</i>.</li>
-  <li><b>2022:</b> 1st Workshop on Safe Reinforcement Learning, co-located with IJCAI, <i>Safe RL: A Collection of Flavors</i>.</li>
-  <li><b>2022:</b> RL-CONFORM workshop, co-located with IROS, <i>Safe Reinforcement Learning under Partial Observability</i>.</li>
+  <li><b>2024:</b> <a href="https://movep24.irisa.fr/programme/" target="_blank">Tutorial, MOVEP 2024 summer school</a>, <i>Decision-Making Under Uncertainty Meets Neurosymbolic AI</i>.</li>
+  <li><b>2024:</b> <a href="https://neurosymbolic.github.io/nsss2024/schedule.html" target="_blank">Neuro-Symbolic AI Summer School, Centaur AI Institute</a> (online), <i>A Neurosymbolic Meetup of AI and Formal Methods</i>.</li>
+  <li><b>2023:</b> <span class="badge" style="background:var(--global-theme-color,#0076df);color:#fff;font-weight:600;margin-right:.35rem;">Keynote</span><a href="https://fm2023.isp.uni-luebeck.de/?p=63" target="_blank">25th International Symposium on Formal Methods (FM 2023)</a>, <i>Intelligent and Dependable Decision-Making Under Uncertainty</i>.</li>
+  <li><b>2023:</b> <span class="badge" style="background:var(--global-theme-color,#0076df);color:#fff;font-weight:600;margin-right:.35rem;">Keynote</span><a href="https://homepage.cs.uiowa.edu/~ajreynol/SYNT2023/program.html" target="_blank">12th Workshop on Synthesis (SYNT 2023)</a>, co-located with CAV, <i>Decision-Making under Uncertainty: Challenges and Highlights</i>.</li>
+  <li><b>2023:</b> <span class="badge" style="background:var(--global-theme-color,#0076df);color:#fff;font-weight:600;margin-right:.35rem;">Keynote</span><a href="https://www.aicentre.dk/events/workshop-on-verifiable-and-robust-ai" target="_blank">Workshop on Verifiable and Robust AI (VRAI)</a>, Denmark, <i>Uncertainty Is Inevitable</i>.</li>
+  <li><b>2023:</b> <a href="https://www.cs.ox.ac.uk/seminars/2573.html" target="_blank">Department of Computer Science, University of Oxford</a>, <i>Dependable Decision-Making Under Uncertainty: Beyond Probabilities</i>.</li>
+  <li><b>2023:</b> <a href="https://www.digitalfutures.kth.se/event/neuro-symbolic-artificial-intelligence-intelligent-decisions-under-uncertainty/" target="_blank">Digital Futures, KTH Royal Institute of Technology</a>, <i>Neuro-Symbolic Artificial Intelligence: Intelligent Decisions Under Uncertainty</i> (<a href="https://www.youtube.com/watch?v=8-BOEKcCals" target="_blank">video</a>).</li>
+  <li><b>2023:</b> <a href="https://wolverine-workshop.github.io/Wolverine2023/" target="_blank">WOLVERINE workshop</a>, co-located with CAV, <i>Safe Reinforcement Learning</i>.</li>
+  <li><b>2022:</b> <a href="https://sites.google.com/view/safe-rl-2022/" target="_blank">1st Workshop on Safe Reinforcement Learning</a>, co-located with IJCAI, <i>Safe RL: A Collection of Flavors</i>.</li>
+  <li><b>2022:</b> <a href="https://rlconform-workshop.github.io/" target="_blank">RL-CONFORM workshop</a>, co-located with IROS, <i>Safe Reinforcement Learning under Partial Observability</i>.</li>
 </ul>
 </div>
 
@@ -252,12 +252,12 @@ redirect_from:
 <div class="service-section mt-4">
 <h2 class="category">Media</h2>
 <ul class="service-list">
-  <li><b>2024:</b> MIT Technology Review: <i>Mathematik | KI braucht dringend Nachhilfe</i> (Eike Kühl).</li>
+  <li><b>2024:</b> MIT Technology Review: <i><a href="https://t3n.de/news/mathematik-ki-braucht-dringend-nachhilfe-1626083/" target="_blank">Mathematik | KI braucht dringend Nachhilfe</a></i> (Eike Kühl).</li>
   <li><b>2023:</b> I/O Magazine: <i>How can AI better handle uncertainties in the real world?</i> (Bennie Mols).</li>
-  <li><b>2023:</b> TechGelderland: <i>Using data to make the world safer</i> (Joep Peters).</li>
-  <li><b>2022:</b> AIhub: <i>Developing safe controllers for autonomous systems under uncertainty</i> (Thom Badings and Nils Jansen).</li>
-  <li><b>2021:</b> Communications of the ACM: <i>Approach to AI Offers More Certainty in the Face of Uncertainty</i>.</li>
-  <li><b>2021:</b> Innovation Origins, Computable, Bits&amp;Chips and Executive-People on our approach to reducing uncertainty in AI decision-making.</li>
+  <li><b>2023:</b> TechGelderland: <i><a href="https://www.techgelderland.nl/werken/using-data-to-make-the-world-safer/" target="_blank">Using data to make the world safer</a></i> (Joep Peters).</li>
+  <li><b>2022:</b> AIhub: <i><a href="https://aihub.org/2022/04/05/developing-safe-controllers-for-autonomous-systems-under-uncertainty/" target="_blank">Developing safe controllers for autonomous systems under uncertainty</a></i> (Thom Badings and Nils Jansen).</li>
+  <li><b>2021:</b> Communications of the ACM: <i><a href="https://cacm.acm.org/news/250174-approach-to-ai-offers-more-certainty-in-the-face-of-uncertainty/fulltext" target="_blank">Approach to AI Offers More Certainty in the Face of Uncertainty</a></i>.</li>
+  <li><b>2021:</b> <a href="https://ioplus.nl/archive/en/a-new-model-reduces-uncertainty-in-ai/" target="_blank">Innovation Origins</a>, <a href="https://computable.nl/2021/01/26/radboud-maakt-kunstmatige-intelligentie-slimmer" target="_blank">Computable</a>, <a href="https://bits-chips.com/article/radboud-and-tue-help-improve-ai-decision-making/" target="_blank">Bits&amp;Chips</a> and <a href="https://www.dutchitleaders.nl/news/164952/nieuwe-ai-benadering-biedt-meer-zekerheid-bij-onzekerheid" target="_blank">Executive-People</a> on our approach to reducing uncertainty in AI decision-making.</li>
 </ul>
 </div>
 
@@ -295,7 +295,7 @@ redirect_from:
 
 <ul class="service-list">
   <li><a href="https://www.dagstuhl.de/24361" target="_blank">Dagstuhl Seminar 24361: Artificial Intelligence and Formal Methods Join Forces for Reliable Autonomy</a> (2024)</li>
-  <li>AISoLA 2023, Track C2 Chair (2023)</li>
+  <li><a href="https://2023-aisola.isola-conference.org/" target="_blank">AISoLA 2023</a>, Track C2 Chair (2023)</li>
   <li><a href="https://www.dagstuhl.de/23492" target="_blank">Dagstuhl Seminar 23492: Model Learning for Improved Trustworthiness in Autonomous Systems</a> (2023)</li>
   <li><a href="https://www.lorentzcenter.nl/predictive-maintenance-let-data-maintain-the-model.html" target="_blank">Lorentz Center Workshop: Predictive Maintenance: Let Data Maintain the Model</a> (2023)</li>
   <li><a href="https://www.lorentzcenter.nl/rigorous-automated-planning-2022.html" target="_blank">Lorentz Center Workshop: Rigorous Automated Planning</a> (2022)</li>
