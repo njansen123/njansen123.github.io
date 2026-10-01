@@ -27,4 +27,4 @@ I am Full Professor and head of the Chair of Artificial Intelligence and Formal 
 - Neurosymbolic AI
 - Autonomous systems and robotics
 
-More on <a href="https://ai-fm.org/" target="_blank">my groups' website</a> and <a href="https://informatik.rub.de/en/research/chairs/aifm/" target="_blank">the chair's page at RUB</a>.
+More on <a href="https://ai-fm.org/" target="_blank">my groups' website</a> and <a href="https://informatik.rub.de/en/research/chairs/aifm/" target="_blank">the chair's page at RUB</a>, or download my <a href="/assets/pdf/cv-jansen.pdf" target="_blank">CV (PDF)</a>.
