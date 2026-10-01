@@ -27,7 +27,7 @@ nav_order: 5
 .teaching-list li { margin-bottom: 0.3rem; }
 </style>
 
-I offer several thesis projects for topics that concern my research. For example, if you are interested in verification, artificial intelligence, machine learning, or probabilistic programming, please contact me! For a full overview just <a href="mailto:n.jansen@rub.de"><b>contact me</b></a>.
+I offer thesis projects on topics related to my research, such as verification, artificial intelligence, machine learning, and probabilistic programming. See the <a href="https://informatik.rub.de/en/research/chairs/aifm/theses/" target="_blank">thesis topics at RUB</a> and the <a href="https://ai-fm.org/projects/" target="_blank">open projects of my group</a>, or just <a href="mailto:n.jansen@rub.de"><b>contact me</b></a>. Current course pages (Moodle, course catalogue) are listed on the <a href="https://informatik.rub.de/en/research/chairs/aifm/courses/" target="_blank">chair's course page</a>.
 
 <div class="teaching-section mt-4">
 <h2 class="category">Ruhr University Bochum</h2>
@@ -52,8 +52,8 @@ I offer several thesis projects for topics that concern my research. For example
 <h2 class="category">Radboud University</h2>
 
 <ul class="teaching-list">
-  <li><b>Processors:</b> 2017/2018, 2018/2019, 2019/2020, 2020/2021, 2021/2022, 2022/2023, 2023/2024</li>
-  <li><b>Model Checking:</b> 2017/2018, 2018/2019, 2019/2020, 2020/2021, 2021/2022, 2022/2023, 2023/2024</li>
-  <li><b>Operating Systems:</b> 2017/2018, 2018/2019, 2019/2020</li>
+  <li><b>Processors</b> (Bachelor): 2017/2018 to 2023/2024</li>
+  <li><b>Model Checking</b> (Master, Mathematical Foundations of Computer Science): 2017/2018 to 2025/2026</li>
+  <li><b>Operating Systems</b> (Bachelor): 2017/2018 to 2019/2020</li>
 </ul>
 </div>
