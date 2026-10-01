@@ -32,6 +32,21 @@ I offer thesis projects on topics related to my research, such as verification, 
 <div class="teaching-section mt-4">
 <h2 class="category">Ruhr University Bochum</h2>
 
+<div class="teaching-term">Winter Term 2026/27</div>
+<ul class="teaching-list">
+  <li>Formal Verification and Model Checking</li>
+  <li>Lab Course: Challenging Problems in Reinforcement Learning</li>
+  <li>Programming for Modern Machine Learning</li>
+  <li>Seminar: Safety and Reliability in Artificial Intelligence</li>
+  <li>Preparatory Course in Computer Science (Python)</li>
+</ul>
+
+<div class="teaching-term">Summer Term 2026</div>
+<ul class="teaching-list">
+  <li>Programming and Programming Languages</li>
+  <li>Seminar: Safety and Reliability in Artificial Intelligence</li>
+</ul>
+
 <div class="teaching-term">Winter Term 2025/26</div>
 <ul class="teaching-list">
   <li>Formal Verification and Model Checking</li>
@@ -53,7 +68,7 @@ I offer thesis projects on topics related to my research, such as verification, 
 
 <ul class="teaching-list">
   <li><b>Processors</b> (Bachelor): 2017/2018 to 2023/2024</li>
-  <li><b>Model Checking</b> (Master, Mathematical Foundations of Computer Science): 2017/2018 to 2025/2026</li>
+  <li><b>Model Checking</b> (Master, Mathematical Foundations of Computer Science): 2017/2018 to 2026/2027</li>
   <li><b>Operating Systems</b> (Bachelor): 2017/2018 to 2019/2020</li>
 </ul>
 </div>
