@@ -64,6 +64,13 @@ redirect_from:
 <div class="service-timeline">
 
 <div class="year-row">
+  <div class="year-label">2027</div>
+  <div class="year-items">
+    <span class="service-pill chair">CAV (Area Chair)</span>
+  </div>
+</div>
+
+<div class="year-row">
   <div class="year-label">2026</div>
   <div class="year-items">
     <span class="service-pill"><a href="https://2026.ijcai.org/" target="_blank">IJCAI (SPC)</a></span>
@@ -208,11 +215,29 @@ redirect_from:
 </div>
 
 <div class="service-section mt-4">
-<h2 class="category">Keynotes</h2>
+<h2 class="category">Selected Talks</h2>
 <ul class="service-list">
-  <li><b>2025:</b> International Conference on Runtime Verification (RV 2025).</li>
-  <li><b>2023:</b> <i>Intelligent and Dependable Decision-Making Under Uncertainty</i>, <a href="https://fm2023.isp.uni-luebeck.de/index.php/invited-speakers/#nils-jansen" target="_blank">25th International Symposium on Formal Methods (FM 2023)</a>.</li>
-  <li><b>2023:</b> <i>Decision-Making under Uncertainty: Challenges and Highlights</i>, <a href="https://homepage.cs.uiowa.edu/~ajreynol/SYNT2023/program.html" target="_blank">12th Workshop on Synthesis (SYNT 2023)</a>, co-located with CAV 2023.</li>
+  <li><b>2026:</b> <span class="badge" style="background:var(--global-theme-color,#0076df);color:#fff;font-weight:600;margin-right:.35rem;">Keynote</span>8th International Workshop on Formal Methods for Autonomous Systems (FMAS 2026), upcoming.</li>
+  <li><b>2026:</b> <span class="badge" style="background:var(--global-theme-color,#0076df);color:#fff;font-weight:600;margin-right:.35rem;">Keynote</span>IPA Fall Days 2026, upcoming.</li>
+  <li><b>2026:</b> AI Colloquium, Lamarr Institute and RC Trust, TU Dortmund, <i>Safe Learning Systems: Artificial Intelligence and Formal Methods</i>.</li>
+  <li><b>2025:</b> <span class="badge" style="background:var(--global-theme-color,#0076df);color:#fff;font-weight:600;margin-right:.35rem;">Keynote</span>International Conference on Runtime Verification (RV 2025), <i>Neurosymbolic Learning Systems: Artificial Intelligence and Formal Methods</i>.</li>
+  <li><b>2025:</b> <span class="badge" style="background:var(--global-theme-color,#0076df);color:#fff;font-weight:600;margin-right:.35rem;">Keynote</span>International Conference on Rigorous State-Based Methods (ABZ 2025), <i>Neurosymbolic Learning Systems: Artificial Intelligence and Formal Methods</i>.</li>
+  <li><b>2025:</b> <span class="badge" style="background:var(--global-theme-color,#0076df);color:#fff;font-weight:600;margin-right:.35rem;">Keynote</span>Research Training Group UnRAVeL, RWTH Aachen University, <i>Neurosymbolic Learning Systems: Artificial Intelligence and Formal Methods</i>.</li>
+  <li><b>2025:</b> Technion &ndash; Israel Institute of Technology, <i>Neurosymbolic Learning Systems: Artificial Intelligence and Formal Methods</i>.</li>
+  <li><b>2025:</b> NVIDIA, <i>Neurosymbolic Intelligent (Reinforcement) Learning Systems</i>.</li>
+  <li><b>2025:</b> IT University of Copenhagen, <i>Reliability and Safety in Artificial Intelligence</i>.</li>
+  <li><b>2024:</b> Center for Autonomy Seminar, Oden Institute, UT Austin, <i>Artificial Intelligence Planning: Uncertainty Is Inevitable</i>.</li>
+  <li><b>2024:</b> Bosch Center for Artificial Intelligence, Renningen, <i>Artificial Intelligence Planning: Uncertainty Is Inevitable</i>.</li>
+  <li><b>2024:</b> Tutorial, MOVEP 2024 summer school, <i>Decision-Making Under Uncertainty Meets Neurosymbolic AI</i>.</li>
+  <li><b>2024:</b> Neuro-Symbolic AI Summer School, Centaur AI Institute (online), <i>A Neurosymbolic Meetup of AI and Formal Methods</i>.</li>
+  <li><b>2023:</b> <span class="badge" style="background:var(--global-theme-color,#0076df);color:#fff;font-weight:600;margin-right:.35rem;">Keynote</span>25th International Symposium on Formal Methods (FM 2023), <i>Intelligent and Dependable Decision-Making Under Uncertainty</i>.</li>
+  <li><b>2023:</b> <span class="badge" style="background:var(--global-theme-color,#0076df);color:#fff;font-weight:600;margin-right:.35rem;">Keynote</span>12th Workshop on Synthesis (SYNT 2023), co-located with CAV, <i>Decision-Making under Uncertainty: Challenges and Highlights</i>.</li>
+  <li><b>2023:</b> <span class="badge" style="background:var(--global-theme-color,#0076df);color:#fff;font-weight:600;margin-right:.35rem;">Keynote</span>Workshop on Verifiable and Robust AI (VRAI), Denmark, <i>Uncertainty Is Inevitable</i>.</li>
+  <li><b>2023:</b> Department of Computer Science, University of Oxford, <i>Dependable Decision-Making Under Uncertainty: Beyond Probabilities</i>.</li>
+  <li><b>2023:</b> Digital Futures, KTH Royal Institute of Technology, <i>Neuro-Symbolic Artificial Intelligence: Intelligent Decisions Under Uncertainty</i>.</li>
+  <li><b>2023:</b> WOLVERINE workshop, co-located with CAV, <i>Safe Reinforcement Learning</i>.</li>
+  <li><b>2022:</b> 1st Workshop on Safe Reinforcement Learning, co-located with IJCAI, <i>Safe RL: A Collection of Flavors</i>.</li>
+  <li><b>2022:</b> RL-CONFORM workshop, co-located with IROS, <i>Safe Reinforcement Learning under Partial Observability</i>.</li>
 </ul>
 </div>
 

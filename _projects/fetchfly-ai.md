@@ -2,6 +2,7 @@
 layout: page
 title: FetchFly.AI
 description: Self-learning aerial robotics for autonomous material supply. ERDF/JTF Programme NRW 2021-2027, co-financed by the European Union.
+img: assets/img/fetchfly.png
 redirect: https://informatik.rub.de/en/research/chairs/aifm/fetchfly-ai/
 importance: 2
 category: Current

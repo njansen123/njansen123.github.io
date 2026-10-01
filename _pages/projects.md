@@ -10,45 +10,18 @@ horizontal: false
 ---
 
 <style>
-.projects .grid-sizer, .projects .grid-item {
-  width: 300px;
-}
-.projects .card {
-  display: flex;
-  flex-direction: column;
-  height: 100%;
-  min-height: 340px;
-}
-.projects .card figure {
-  margin: 0;
-}
-.projects .card img {
-  width: 100%;
-  height: 170px;
-  object-fit: cover;
-}
-.projects .card-body {
-  flex: 1 1 auto;
-  display: flex;
-  flex-direction: column;
-}
-.projects .card:not(:has(figure)) .card-body {
-  justify-content: center;
-  padding-top: 170px;
-  position: relative;
-}
-.projects .card:not(:has(figure)) .card-body::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  height: 170px;
-  background: var(--global-divider-color, rgba(128,128,128,0.12));
-}
-.projects .card-title {
-  font-size: 1.1rem;
-}
+/* Cards in a responsive grid that always fits the content width (overrides masonry positioning). */
+.projects .grid { display: grid !important; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 1.25rem; height: auto !important; margin-bottom: 1rem; }
+.projects .grid-sizer { display: none; }
+.projects .grid-item { position: static !important; left: auto !important; top: auto !important; width: auto !important; margin: 0 !important; }
+.projects .grid-item > a { display: block; height: 100%; color: inherit; text-decoration: none; }
+.projects .card { display: flex; flex-direction: column; height: 100%; overflow: hidden; border-radius: 10px; border: 1px solid var(--global-divider-color, rgba(128,128,128,0.2)); }
+.projects .card figure { margin: 0; }
+.projects .card picture, .projects .card img { display: block; width: 100%; }
+.projects .card img { aspect-ratio: 16 / 9; height: auto; object-fit: contain; box-sizing: border-box; max-width: 100%; background: #ffffff; padding: 10px; border-bottom: 1px solid var(--global-divider-color, rgba(128,128,128,0.2)); }
+.projects .card-body { flex: 1 1 auto; }
+.projects .card-title { font-size: 1.1rem; }
+.projects .card-text { font-size: 0.92rem; }
 </style>
 
 <!-- pages/projects.md -->
