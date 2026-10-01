@@ -59,6 +59,8 @@ redirect_from:
 <div class="service-section">
 <h2 class="category">Program Committees</h2>
 
+<p><b>Steering committee:</b> QEST (International Conference on Quantitative Evaluation of SysTems), since 2023.</p>
+
 <div class="service-timeline">
 
 <div class="year-row">
@@ -199,9 +201,38 @@ redirect_from:
 
 <h3 class="mt-3" style="font-size:1.05rem;font-weight:600;">Awards of my PhD students</h3>
 <ul class="service-list">
-  <li><b>2026:</b> Thom Badings: ETAPS Doctoral Dissertation Award and KHMW Kees Schouhamer Immink Proefschriftprijs, for his thesis <i>Robust Verification of Stochastic Systems: Guarantees in the Presence of Uncertainty</i> (PhD cum laude, 2025).</li>
+  <li><b>2026:</b> Thom Badings: ETAPS Doctoral Dissertation Award, IPA Dissertation Award and KHMW Kees Schouhamer Immink Proefschriftprijs, for his thesis <i>Robust Verification of Stochastic Systems: Guarantees in the Presence of Uncertainty</i> (PhD cum laude, 2025).</li>
   <li><b>2025:</b> Thom Badings: Honorable Mention, AAAI/ACM SIGAI Doctoral Dissertation Award.</li>
   <li><b>2023:</b> Eline Bovy: BNAIC/BeNeLearn Best Thesis Award; she also holds a Christine Mohrmann Stipend for promising female PhD students at Radboud University.</li>
+</ul>
+</div>
+
+<div class="service-section mt-4">
+<h2 class="category">Keynotes</h2>
+<ul class="service-list">
+  <li><b>2025:</b> International Conference on Runtime Verification (RV 2025).</li>
+  <li><b>2023:</b> <i>Intelligent and Dependable Decision-Making Under Uncertainty</i>, <a href="https://fm2023.isp.uni-luebeck.de/index.php/invited-speakers/#nils-jansen" target="_blank">25th International Symposium on Formal Methods (FM 2023)</a>.</li>
+  <li><b>2023:</b> <i>Decision-Making under Uncertainty: Challenges and Highlights</i>, <a href="https://homepage.cs.uiowa.edu/~ajreynol/SYNT2023/program.html" target="_blank">12th Workshop on Synthesis (SYNT 2023)</a>, co-located with CAV 2023.</li>
+</ul>
+</div>
+
+<div class="service-section mt-4">
+<h2 class="category">Institutional Responsibilities</h2>
+<ul class="service-list">
+  <li><b>Current:</b> Coordinator of school outreach and member of the advisory council (Beraterkreis) and the Academic Advisory Board (Studienbeirat) of the Faculty of Computer Science, Ruhr University Bochum.</li>
+  <li><b>2023:</b> Vice head of the Department of Software Science, Radboud University.</li>
+</ul>
+</div>
+
+<div class="service-section mt-4">
+<h2 class="category">Media</h2>
+<ul class="service-list">
+  <li><b>2024:</b> MIT Technology Review: <i>Mathematik | KI braucht dringend Nachhilfe</i> (Eike Kühl).</li>
+  <li><b>2023:</b> I/O Magazine: <i>How can AI better handle uncertainties in the real world?</i> (Bennie Mols).</li>
+  <li><b>2023:</b> TechGelderland: <i>Using data to make the world safer</i> (Joep Peters).</li>
+  <li><b>2022:</b> AIhub: <i>Developing safe controllers for autonomous systems under uncertainty</i> (Thom Badings and Nils Jansen).</li>
+  <li><b>2021:</b> Communications of the ACM: <i>Approach to AI Offers More Certainty in the Face of Uncertainty</i>.</li>
+  <li><b>2021:</b> Innovation Origins, Computable, Bits&amp;Chips and Executive-People on our approach to reducing uncertainty in AI decision-making.</li>
 </ul>
 </div>
 

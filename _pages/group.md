@@ -146,7 +146,8 @@ For a detailed description of my team, please visit <a href="https://ai-fm.org/p
       <div class="card h-100 border-0">
         <div class="card-body px-0">
           <h6 class="card-title mb-0">Thiago D. Sim&atilde;o</h6>
-          <small class="text-muted">Postdoc, 2021&ndash;2023</small>
+          <small class="text-muted">Postdoc, 2021&ndash;2023</small><br>
+          <small class="text-muted">Now assistant professor at TU Eindhoven</small>
         </div>
       </div>
     </div>
@@ -154,7 +155,8 @@ For a detailed description of my team, please visit <a href="https://ai-fm.org/p
       <div class="card h-100 border-0">
         <div class="card-body px-0">
           <h6 class="card-title mb-0">Dennis Gross</h6>
-          <small class="text-muted">PhD Student, 2019&ndash;2023</small>
+          <small class="text-muted">PhD Student, 2019&ndash;2023</small><br>
+          <small class="text-muted">Now postdoc at the University of Oslo</small>
         </div>
       </div>
     </div>
@@ -162,7 +164,8 @@ For a detailed description of my team, please visit <a href="https://ai-fm.org/p
       <div class="card h-100 border-0">
         <div class="card-body px-0">
           <h6 class="card-title mb-0">Zaharah A. Bukhsh</h6>
-          <small class="text-muted">Postdoc, 2020&ndash;2021</small>
+          <small class="text-muted">Postdoc, 2020&ndash;2021</small><br>
+          <small class="text-muted">Now assistant professor at TU Eindhoven</small>
         </div>
       </div>
     </div>
@@ -171,7 +174,8 @@ For a detailed description of my team, please visit <a href="https://ai-fm.org/p
         <div class="card-body px-0">
           <h6 class="card-title mb-0">Thom Badings</h6>
           <small class="text-muted">PhD Student, 2020&ndash;2025 (cum laude)</small><br>
-          <small class="text-muted">ETAPS Doctoral Dissertation Award 2026</small>
+          <small class="text-muted">ETAPS Doctoral Dissertation Award 2026</small><br>
+          <small class="text-muted">Now postdoc at RWTH Aachen</small>
         </div>
       </div>
     </div>
@@ -179,7 +183,8 @@ For a detailed description of my team, please visit <a href="https://ai-fm.org/p
       <div class="card h-100 border-0">
         <div class="card-body px-0">
           <h6 class="card-title mb-0">Marnix Suilen</h6>
-          <small class="text-muted">PhD Student, 2020&ndash;2025</small>
+          <small class="text-muted">PhD Student, 2020&ndash;2025</small><br>
+          <small class="text-muted">Now postdoc at the University of Antwerp</small>
         </div>
       </div>
     </div>
