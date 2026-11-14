@@ -23,16 +23,8 @@ For a detailed description of my team, please visit <a href="https://ai-fm.org/p
     <div class="col-md-6 col-lg-4 mb-3">
       <div class="card h-100 shadow-sm">
         <div class="card-body">
-          <h5 class="card-title mb-1">Marcel Neuhausen</h5>
-          <span class="badge badge-secondary">Postdoc</span>
-        </div>
-      </div>
-    </div>
-    <div class="col-md-6 col-lg-4 mb-3">
-      <div class="card h-100 shadow-sm">
-        <div class="card-body">
-          <h5 class="card-title mb-1">Maximilian Weininger</h5>
-          <span class="badge badge-secondary">Postdoc</span>
+          <h5 class="card-title mb-1">Tobias Winkler</h5>
+          <span class="badge badge-secondary">Incoming Postdoc, 2027</span>
         </div>
       </div>
     </div>
@@ -126,6 +118,22 @@ For a detailed description of my team, please visit <a href="https://ai-fm.org/p
 <div class="group-section mt-4">
   <h2 class="category">Alumni</h2>
   <div class="row">
+    <div class="col-md-6 col-lg-4 mb-3">
+      <div class="card h-100 border-0">
+        <div class="card-body px-0">
+          <h6 class="card-title mb-0">Maximilian Weininger</h6>
+          <small class="text-muted">Postdoc, 2025&ndash;2026</small>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-6 col-lg-4 mb-3">
+      <div class="card h-100 border-0">
+        <div class="card-body px-0">
+          <h6 class="card-title mb-0">Marcel Neuhausen</h6>
+          <small class="text-muted">Postdoc, 2024&ndash;2026</small>
+        </div>
+      </div>
+    </div>
     <div class="col-md-6 col-lg-4 mb-3">
       <div class="card h-100 border-0">
         <div class="card-body px-0">
